@@ -1,0 +1,37 @@
+{
+  "author": "themax267",
+  "authors": [
+    "themax267",
+    "Batman"
+  ],
+  "build": "94684",
+  "category": [
+    "units",
+    "titans"
+  ],
+  "context": "server",
+  "date": "2017/03/21",
+  "dependencies": [
+    "com.pa.quitch.qAIModCompatibilityPatch"
+  ],
+  "description": "Adds an advanced HoverScout to the game.",
+  "display_name": "Advanced Scout",
+  "forum": "https://forums.uberent.com/threads/wip-server-advanced-scout-mod.72322/",
+  "icon": "https://i.imgur.com/fqGb4NB.gif",
+  "identifier": "maxmod.com",
+  "priority": 90,
+  "searchable": [
+    "hover",
+    "scout",
+    "units",
+    "advanced",
+    "server",
+    "server-mod",
+    "in-game",
+    "titans",
+    "themax",
+    "metapod"
+  ],
+  "signature": "(not yet implemented)",
+  "version": "2.3"
+}
